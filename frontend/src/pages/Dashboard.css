@@ -1,0 +1,17 @@
+.main
+{
+    display: flex;
+    flex-direction:column;
+}
+
+.d1
+{
+    display: felx;
+    flex-direction: row;
+}
+
+.d2
+{
+    display: felx;
+    flex-direction: row;
+}

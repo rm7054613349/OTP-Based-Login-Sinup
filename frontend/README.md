@@ -10,5 +10,11 @@ After we are login for those email thats we are given in signup then a otp will 
 simple Running Process-
 
 Cloned the Project
+
+
+
 npm i
+
+
+
 npm start
